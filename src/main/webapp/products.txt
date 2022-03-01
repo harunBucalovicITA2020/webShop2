@@ -1,0 +1,5 @@
+1;Sony Play Station;1650
+2;Dell U2421;450
+3;Toshiba Smart TV;900
+4;Samsung Galaxy S22;1780
+5;Lenovo Think Pad X660;2700
